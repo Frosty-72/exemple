@@ -1,0 +1,15 @@
+E:\folderGit\examples\examples_001\bin\Debug\net7.0\examples_001.exe
+E:\folderGit\examples\examples_001\bin\Debug\net7.0\examples_001.deps.json
+E:\folderGit\examples\examples_001\bin\Debug\net7.0\examples_001.runtimeconfig.json
+E:\folderGit\examples\examples_001\bin\Debug\net7.0\examples_001.dll
+E:\folderGit\examples\examples_001\bin\Debug\net7.0\examples_001.pdb
+E:\folderGit\examples\examples_001\obj\Debug\net7.0\examples_001.csproj.AssemblyReference.cache
+E:\folderGit\examples\examples_001\obj\Debug\net7.0\examples_001.GeneratedMSBuildEditorConfig.editorconfig
+E:\folderGit\examples\examples_001\obj\Debug\net7.0\examples_001.AssemblyInfoInputs.cache
+E:\folderGit\examples\examples_001\obj\Debug\net7.0\examples_001.AssemblyInfo.cs
+E:\folderGit\examples\examples_001\obj\Debug\net7.0\examples_001.csproj.CoreCompileInputs.cache
+E:\folderGit\examples\examples_001\obj\Debug\net7.0\examples_001.dll
+E:\folderGit\examples\examples_001\obj\Debug\net7.0\refint\examples_001.dll
+E:\folderGit\examples\examples_001\obj\Debug\net7.0\examples_001.pdb
+E:\folderGit\examples\examples_001\obj\Debug\net7.0\examples_001.genruntimeconfig.cache
+E:\folderGit\examples\examples_001\obj\Debug\net7.0\ref\examples_001.dll
